@@ -1,0 +1,383 @@
+@font-face{
+
+    font-family: 'Mi fuente';
+    src: url(../Fuentes/Roboto-Bold.ttf);
+
+}
+
+@font-face{
+
+    font-family: 'Mi segunda fuente';
+    src: url(../Fuentes/Roboto-Medium.ttf);
+
+}
+
+@font-face{
+
+    font-family: 'Mi tercera fuente';
+    src: url(../Fuentes/Roboto-Regular.ttf);
+
+}
+
+h1{
+
+    font-family: 'Mi fuente';
+    color: white;
+    font-size: 3.8rem;
+
+}
+
+h2{
+
+    font-family: 'Mi segunda fuente';
+    font-size: 2.1rem;
+
+}
+
+h4{
+
+    font-family: 'Mi segunda fuente';
+
+}
+
+h5{
+
+    font-family: 'Mi segunda fuente'
+
+}
+
+p{
+
+    font-family: 'Mi tercera fuente';
+    font-size: 1.1rem;
+
+}
+
+
+.o-container-BoxMenu{
+
+    background-color: #A1C6EA;
+    height: 103rem;
+
+}
+
+.o-container-BoxInformation{
+
+    background-color: brown;
+    height: 103rem;
+
+}
+
+.o-container-TitleTopic{
+
+    background-color: burlywood;
+    height: 25rem;
+    background-image: url(../Imágenes/Formula5.jpg);
+    background-size: cover;
+    background-position: 0rem -10rem;
+
+}
+
+.o-img-back{
+
+    width: 2rem;
+
+}
+
+.o-buttonBack{
+
+    background-color: transparent;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    transition: 0.4s;
+
+}
+
+.o-container-ButtonBack{
+
+    background-color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 7.5rem;
+    padding: 0rem;
+
+
+}
+
+.o-buttonBack:hover{
+
+    transform: scale(1.5)
+
+}
+
+.o-containerTextCinematic{
+
+    background-color: yellow;
+    height: 7.5rem;
+    display: flex;
+    align-items: center;
+
+}
+
+.o-containerTextButtonBack{
+
+    height: 25rem;
+    display: flex;
+    align-items: flex-end;
+
+}
+
+.o-containerData{
+
+    padding: 4rem 4rem 0rem 4rem;
+    background-color: blueviolet;
+
+}
+
+
+.o-img-components{
+
+    width: 7.8rem;
+
+}
+
+.o-img-components2{
+
+    width: 6rem;
+
+}
+
+.o-containerImages{
+
+    background-color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.o-BoxImgComponents{
+
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0rem 0rem 0rem;
+
+}
+
+.o-BoxTextComponents{
+
+    display: flex;
+    justify-content: space-around;
+    padding: 0.2rem 0rem 5rem 0rem;
+
+}
+
+.o-BoxButtonTopics{
+
+    display: flex;
+    justify-content: space-around;
+    background-color: darkblue;
+    padding: 4rem 0rem 0rem 0rem
+
+}
+
+.o-container-ButtonTopic{
+
+    background-color: white;
+    height: 21rem;
+    border-radius: 1.1rem;
+    box-shadow:  0px 2px 13px 0px #c7c3c7;
+    transition: 0.4s;
+
+}
+
+.o-container-ButtonTopic:hover{
+
+    transform: scale(1.06);
+
+}
+
+.o-img-topic1{
+
+    height: 15rem;
+    background-image: url(../Imágenes/Moto.jpg);
+    background-size: cover;
+    background-position: 0rem -1.4rem;
+    border-radius: 1.1rem 1.1rem 0rem 0rem;
+
+}
+
+.o-containerButton1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+    border-radius: 0rem 0rem 1.1rem 1.1rem;
+
+}
+
+.o-styleButton{
+    
+    width: 23rem;
+    height: 6rem;
+    border-radius: 0rem 0rem 1.1rem 1.1rem;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: 1.7rem;
+    font-family: 'Mi segunda fuente';
+
+}
+
+.o-img-topic2{
+
+    height: 15rem;
+    background-image: url(../Imágenes/Cañon.jpg);
+    background-size: cover;
+    background-position: 0rem 0rem;
+    border-radius: 1.1rem 1.1rem 0rem 0rem;
+
+}
+
+.o-containerButton2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+    border-radius: 0rem 0rem 1.1rem 1.1rem;
+
+}
+
+.o-img-topic3{
+
+    height: 15rem;
+    background-image: url(../Imágenes/Rueda.jpg);
+    background-size: cover;
+    background-position: 0rem 0rem;
+    border-radius: 1.1rem 1.1rem 0rem 0rem;
+
+}
+
+.o-containerButton3{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6rem;
+    border-radius: 0rem 0rem 1.1rem 1.1rem;
+
+}
+
+.o-img-logoFisica1{
+
+    width: 4rem;
+
+}
+
+.o-Box-LogoTitle{
+
+    background-color: violet;
+    padding: 1.5rem 0rem 0.5rem 0rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+.o-container-logo{
+
+    background-color: white;
+
+}
+
+.o-container-TitleFisica{
+
+    background-color: tomato;
+    height: 5rem;
+    display: flex;
+    align-items: center
+
+}
+
+.o-container-separator{
+
+    background-color: white;
+    height: 0.1rem;
+
+}
+
+.o-titleCapacities{
+
+    background-color: yellow;
+    height: 4rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 2rem 0rem 0rem 1rem;
+
+}
+
+.o-containerTextCapacity{
+
+    background-color: brown;
+
+}
+
+.o-img-point{
+
+    width: 1.2rem;
+
+}
+
+.o-containerCapacities{
+
+    background-color: cadetblue;
+    height: 2rem;
+    margin: 0.5rem 0rem 1.3rem 1rem;
+
+}
+
+.o-containerImgPoint{
+
+    background-color: chartreuse;
+    height: 2rem;
+
+}
+
+.o-container-TextCapacity{
+
+    background-color: coral;
+    height: 2rem;
+    padding: 0.1rem 0rem 0rem 0.3rem;
+
+}
+
+.o-titleGoal{
+
+    background-color: yellow;
+    height: 4rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 3rem 0rem 0rem 1rem;
+
+}
+
+.o-containerGoals{
+
+    background-color: cadetblue;
+    height: 4rem;
+    margin: 0.5rem 0rem 1.3rem 1rem;
+
+}
+
+.o-container-TextGoal{
+
+    background-color: coral;
+    height: 4rem;
+    padding: 0.1rem 0rem 0rem 0.3rem;
+
+}
