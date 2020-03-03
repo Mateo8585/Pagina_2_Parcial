@@ -63,14 +63,12 @@ p{
 
 .o-container-BoxInformation{
 
-    background-color: brown;
     height: 103rem;
 
 }
 
 .o-container-TitleTopic{
 
-    background-color: burlywood;
     height: 25rem;
     background-image: url(../Imágenes/Formula5.jpg);
     background-size: cover;
@@ -96,7 +94,6 @@ p{
 
 .o-container-ButtonBack{
 
-    background-color: teal;
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -114,7 +111,6 @@ p{
 
 .o-containerTextCinematic{
 
-    background-color: yellow;
     height: 7.5rem;
     display: flex;
     align-items: center;
@@ -132,10 +128,8 @@ p{
 .o-containerData{
 
     padding: 4rem 4rem 0rem 4rem;
-    background-color: blueviolet;
 
 }
-
 
 .o-img-components{
 
@@ -151,7 +145,6 @@ p{
 
 .o-containerImages{
 
-    background-color: chartreuse;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -178,14 +171,12 @@ p{
 
     display: flex;
     justify-content: space-around;
-    background-color: darkblue;
     padding: 4rem 0rem 0rem 0rem
 
 }
 
 .o-container-ButtonTopic{
 
-    background-color: white;
     height: 21rem;
     border-radius: 1.1rem;
     box-shadow:  0px 2px 13px 0px #c7c3c7;
@@ -280,22 +271,14 @@ p{
 
 .o-Box-LogoTitle{
 
-    background-color: violet;
     padding: 1.5rem 0rem 0.5rem 0rem;
     display: flex;
     justify-content: center;
 
 }
 
-.o-container-logo{
-
-    background-color: white;
-
-}
-
 .o-container-TitleFisica{
 
-    background-color: tomato;
     height: 5rem;
     display: flex;
     align-items: center
@@ -304,25 +287,18 @@ p{
 
 .o-container-separator{
 
-    background-color: white;
     height: 0.1rem;
+    background-color: white;
 
 }
 
 .o-titleCapacities{
 
-    background-color: yellow;
     height: 4rem;
     display: flex;
     justify-content: flex-start;
     align-items: center;
     margin: 2rem 0rem 0rem 1rem;
-
-}
-
-.o-containerTextCapacity{
-
-    background-color: brown;
 
 }
 
@@ -334,7 +310,6 @@ p{
 
 .o-containerCapacities{
 
-    background-color: cadetblue;
     height: 2rem;
     margin: 0.5rem 0rem 1.3rem 1rem;
 
@@ -342,14 +317,12 @@ p{
 
 .o-containerImgPoint{
 
-    background-color: chartreuse;
     height: 2rem;
 
 }
 
 .o-container-TextCapacity{
 
-    background-color: coral;
     height: 2rem;
     padding: 0.1rem 0rem 0rem 0.3rem;
 
@@ -357,7 +330,6 @@ p{
 
 .o-titleGoal{
 
-    background-color: yellow;
     height: 4rem;
     display: flex;
     justify-content: flex-start;
@@ -368,7 +340,6 @@ p{
 
 .o-containerGoals{
 
-    background-color: cadetblue;
     height: 4rem;
     margin: 0.5rem 0rem 1.3rem 1rem;
 
@@ -376,7 +347,6 @@ p{
 
 .o-container-TextGoal{
 
-    background-color: coral;
     height: 4rem;
     padding: 0.1rem 0rem 0rem 0.3rem;
 
